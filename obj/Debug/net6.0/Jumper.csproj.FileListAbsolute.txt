@@ -1,0 +1,15 @@
+/Users/nia/GitHub/Jumper/bin/Debug/net6.0/Jumper
+/Users/nia/GitHub/Jumper/bin/Debug/net6.0/Jumper.deps.json
+/Users/nia/GitHub/Jumper/bin/Debug/net6.0/Jumper.runtimeconfig.json
+/Users/nia/GitHub/Jumper/bin/Debug/net6.0/Jumper.dll
+/Users/nia/GitHub/Jumper/bin/Debug/net6.0/Jumper.pdb
+/Users/nia/GitHub/Jumper/obj/Debug/net6.0/Jumper.csproj.AssemblyReference.cache
+/Users/nia/GitHub/Jumper/obj/Debug/net6.0/Jumper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nia/GitHub/Jumper/obj/Debug/net6.0/Jumper.AssemblyInfoInputs.cache
+/Users/nia/GitHub/Jumper/obj/Debug/net6.0/Jumper.AssemblyInfo.cs
+/Users/nia/GitHub/Jumper/obj/Debug/net6.0/Jumper.csproj.CoreCompileInputs.cache
+/Users/nia/GitHub/Jumper/obj/Debug/net6.0/Jumper.dll
+/Users/nia/GitHub/Jumper/obj/Debug/net6.0/refint/Jumper.dll
+/Users/nia/GitHub/Jumper/obj/Debug/net6.0/Jumper.pdb
+/Users/nia/GitHub/Jumper/obj/Debug/net6.0/Jumper.genruntimeconfig.cache
+/Users/nia/GitHub/Jumper/obj/Debug/net6.0/ref/Jumper.dll
