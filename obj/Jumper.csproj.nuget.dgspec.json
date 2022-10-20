@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rachanakumbhakar/Desktop/Jumper/Jumper.csproj": {}
+    "/Users/nia/GitHub/Jumper/Jumper.csproj": {}
   },
   "projects": {
-    "/Users/rachanakumbhakar/Desktop/Jumper/Jumper.csproj": {
+    "/Users/nia/GitHub/Jumper/Jumper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rachanakumbhakar/Desktop/Jumper/Jumper.csproj",
+        "projectUniqueName": "/Users/nia/GitHub/Jumper/Jumper.csproj",
         "projectName": "Jumper",
-        "projectPath": "/Users/rachanakumbhakar/Desktop/Jumper/Jumper.csproj",
-        "packagesPath": "/Users/rachanakumbhakar/.nuget/packages/",
-        "outputPath": "/Users/rachanakumbhakar/Desktop/Jumper/obj/",
+        "projectPath": "/Users/nia/GitHub/Jumper/Jumper.csproj",
+        "packagesPath": "/Users/nia/.nuget/packages/",
+        "outputPath": "/Users/nia/GitHub/Jumper/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/rachanakumbhakar/.nuget/NuGet/NuGet.Config"
+          "/Users/nia/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

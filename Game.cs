@@ -46,4 +46,18 @@ class Game
             index += 1;
         }
     }
+
+    public bool IsGameDone ()
+    {
+        bool done = true;
+        foreach (string letter in wordWithSpaces)
+        {
+            if (letter == "_")
+            {
+                done = false;
+            }
+        }
+        return done;
+    }
+
 }
