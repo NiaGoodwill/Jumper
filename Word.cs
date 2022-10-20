@@ -1,5 +1,6 @@
 class Word
 {
+    List<string> wordList = new List<string>();
     List<string> theList = new List<string>();
     public Word()
     {
