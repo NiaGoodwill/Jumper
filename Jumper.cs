@@ -8,10 +8,12 @@ while (stage <= 3){
     game.Print();
     parachute.Display();
     string letter = player.Guess();
+    Console.WriteLine();
     bool correct = game.Check(letter);
     if (correct == false)
     {
         stage += 1;
+        parachute.Delete();
     }
     
 }

@@ -16,7 +16,7 @@ class Game
         Console.WriteLine ("Testing");
     }
 
-    public bool Check()
+    public bool Check(string  Guess)
     {
         return false;
     }
