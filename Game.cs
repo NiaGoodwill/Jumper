@@ -1,28 +1,49 @@
 class Game 
 {
     Word word = new Word();
-    List<int> wordWithSpaces = new List<int>();
+    List<string> wordWithSpaces = new List<string>();
     List<string> wordList;
     public Game ()
     {
-        for (int i = 1; i <= 9; i++)
+        wordList = word.GetWord();
+        for (int i = 0; i <= wordList.Count(); i++)
         {
-            wordWithSpaces.Add (i);
-        } 
+            wordWithSpaces.Add("_");
+        }
     }
 
     public void Print()
     {
-        Console.WriteLine ("Testing");
+        foreach (string letter in wordWithSpaces)
+        {
+            Console.Write ($"{letter} ");
+        }
+        Console.WriteLine();
     }
 
-    public bool Check()
+    public bool Check(string guess)
     {
-        return false;
+        if (wordList.Contains(guess))
+        {
+            AdjustWord(guess);
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
 
-    void AdjustWord ()
+    void AdjustWord (string guess)
     {
-
+        int index = 0;
+        foreach (string letter in wordList)
+        {
+            if (letter == guess)
+            {
+                wordWithSpaces[index] = guess;
+            }
+            index += 1;
+        }
     }
 }
