@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/nia/.nuget/packages/": {}
+    "/Users/rachanakumbhakar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nia/GitHub/Jumper/Jumper.csproj",
+      "projectUniqueName": "/Users/rachanakumbhakar/Desktop/Jumper/Jumper.csproj",
       "projectName": "Jumper",
-      "projectPath": "/Users/nia/GitHub/Jumper/Jumper.csproj",
-      "packagesPath": "/Users/nia/.nuget/packages/",
-      "outputPath": "/Users/nia/GitHub/Jumper/obj/",
+      "projectPath": "/Users/rachanakumbhakar/Desktop/Jumper/Jumper.csproj",
+      "packagesPath": "/Users/rachanakumbhakar/.nuget/packages/",
+      "outputPath": "/Users/rachanakumbhakar/Desktop/Jumper/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nia/.nuget/NuGet/NuGet.Config"
+        "/Users/rachanakumbhakar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

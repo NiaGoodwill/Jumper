@@ -15,6 +15,11 @@ while (stage <= 3){
         stage += 1;
         parachute.Delete();
     }
+    else if (correct == true){
+         bool end = game.IsGameDone();
+         if (end == true)
+         {stage = 4;}
+    }
     
 }
 game.Print();
