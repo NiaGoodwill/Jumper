@@ -6,7 +6,7 @@ class Game
     public Game ()
     {
         wordList = word.GetWord();
-        for (int i = 0; i <= wordList.Count(); i++)
+        for (int i = 0; i <= wordList.Count()-1; i++)
         {
             wordWithSpaces.Add("_");
         }

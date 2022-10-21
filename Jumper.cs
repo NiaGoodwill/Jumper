@@ -24,7 +24,7 @@ while (stage <= 3){
 }
 game.Print();
 parachute.Display();
-
+Console.WriteLine("You won!");
 
 
 
